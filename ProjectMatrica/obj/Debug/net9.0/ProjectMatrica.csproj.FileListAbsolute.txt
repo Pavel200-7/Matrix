@@ -1,0 +1,14 @@
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/bin/Debug/net9.0/ProjectMatrica
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/bin/Debug/net9.0/ProjectMatrica.deps.json
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/bin/Debug/net9.0/ProjectMatrica.runtimeconfig.json
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/bin/Debug/net9.0/ProjectMatrica.dll
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/bin/Debug/net9.0/ProjectMatrica.pdb
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.GeneratedMSBuildEditorConfig.editorconfig
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.AssemblyInfoInputs.cache
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.AssemblyInfo.cs
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.csproj.CoreCompileInputs.cache
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.dll
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/refint/ProjectMatrica.dll
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.pdb
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ProjectMatrica.genruntimeconfig.cache
+/home/user111/Desktop/StudyPractice_12_05_2025/ProjectMatrica/ProjectMatrica/obj/Debug/net9.0/ref/ProjectMatrica.dll
