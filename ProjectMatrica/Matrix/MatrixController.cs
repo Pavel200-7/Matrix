@@ -5,6 +5,8 @@ namespace ProjectMatrica.Matrix;
 public class MatrixController
 {
     private Matrix matrix;
+    
+    // Взаимодействие консолью - это цикл, который завершается при изменении этой переменной
     private bool exid;
 
     public MatrixController()
@@ -20,13 +22,11 @@ public class MatrixController
     private int[] getFirstRow()
     {
         Console.WriteLine("Введите первую строку матрицы:");
-        
         return getRow();
     }
 
     private void choseOperation()
     {
-        
         Console.WriteLine("Выберите операцию:");
         Console.WriteLine("show (show) - отобразить матрицу");
         Console.WriteLine("add (add) - добавить строку");
@@ -42,9 +42,6 @@ public class MatrixController
 
         while (!exid)
         {
-            
-
-
             string operation = InputOperation();
             performOperation(operation);
         }
@@ -280,7 +277,7 @@ public class MatrixController
 
     private bool IsColumnExist(int rowNumber)
     {
-        rowNumber = rowNumber - 0;
+        rowNumber = rowNumber - 1;
         int lastRowIndex = matrix.matrix.GetUpperBound(0);
         if (rowNumber >= 0 && rowNumber <= lastRowIndex)
         {
@@ -305,7 +302,6 @@ public class MatrixController
     {
         matrix.reverseColumns();
         Console.WriteLine("Матрица развернута");
-
     }
 
     private void sortAsk()
@@ -324,6 +320,5 @@ public class MatrixController
     {
         exid = true;
         Console.WriteLine("Выполнение программы завершается");
-
     }
 }
