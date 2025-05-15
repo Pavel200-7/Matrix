@@ -277,7 +277,7 @@ public class MatrixController
 
     private bool IsColumnExist(int rowNumber)
     {
-        rowNumber = rowNumber - 1;
+        // rowNumber = rowNumber - 1;
         int lastRowIndex = matrix.matrix.GetUpperBound(0);
         if (rowNumber >= 0 && rowNumber <= lastRowIndex)
         {

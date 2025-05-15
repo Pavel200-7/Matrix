@@ -6,11 +6,11 @@ public class matrixConsolePrinter
     {
         int rows = matrix.GetUpperBound(0) + 1;
 
-        if (rows == 0)
-        {
-            Console.WriteLine("Матрица пуста");
-            return;
-        }
+        // if (rows == 0)
+        // {
+        //     Console.WriteLine("Матрица пуста");
+        //     return;
+        // }
         
         int columns = matrix.Length / rows;
         
